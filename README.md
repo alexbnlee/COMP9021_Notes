@@ -2,8 +2,15 @@
 
 ## Note_01
 
-zip()
+- zip()
+- itertools.zip_longest()
+- %time
 
-itertools.zip_longest()
+## Note_02
 
-%time
+- for 循环单行输出
+- list 技巧
+- 迭代器
+- 生成器
+- map()
+- zip()
